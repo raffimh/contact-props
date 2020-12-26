@@ -20,6 +20,6 @@ const contacts = [
     phone: "+918 372 574",
     email: "annie@marley.com",
   },
-];
+]
 
 export default contacts;
